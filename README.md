@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Eva Bower. I recently received a Security+ certification, and I am activly searching for entry-level InfoSec, SOC I, and IT Help Desk positions. 
+- 👋 Hi, I’m Eva Bower. I recently received a Security+ certification, and I am actively searching for entry-level InfoSec, SOC I, and IT Help Desk positions. 
 - 👀 I’m interested in Cyber Security, specifically penetration testing and intrusion response. 
-- 🌱 I’m currently learning Software and Game Development through Code Academy.
+- 🌱 I’m currently learning software and game development through Code Academy.
 
 <!---
 E0Bower/E0Bower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
