@@ -1,13 +1,25 @@
-### Hi there 👋
-I'm Eva and this account will serve as a showcase for all of my projects. 
-- 🔒 I hold a CompTIA Security+ certification, demonstrating my strong foundation in cybersecurity principles and practices. 
-     I also have a Bachelor's degree in Sociology, providing me with a unique perspective on human behavior and societal structures that is valuable in the tech and security fields. 
-     Currently, I'm diving into the world of full-stack development, continuously learning and expanding my skill set in both front-end and back-end technologies.
+### 👋 Hey there, I’m Eva (aka Nuggz)
 
+Welcome to my corner of the internet. I'm currently diving deep into web design and front-end development, building creative, user-friendly digital experiences one project at a time.
 
-- 🎮 Massive Nerd who loves staying updated with the latest in tech and gaming.
-- 💬 Ask me about building PCs and mechanical keyboards!
-- 📫 How to reach me: https://www.linkedin.com/in/eva-n-bower  
-- 😄 Pronouns: She/Her
+## 💻 What I’m Working On
+- Studying **web design & full-stack web development** through Codecademy  
+- Designing clean, responsive UI with a focus on accessibility and user experience  
+- Building personal projects to sharpen my skills in HTML, CSS, JavaScript, and React  
+
+## 🛠️ Skills & Tools
+- **Languages:** HTML5, CSS3, JavaScript  
+- **Tools:** Git, GitHub, VS Code, Figma  
+- **Other Interests:** UI/UX principles, responsive design, and site optimization
+
+## 🎮 Hobbies & Passions
+- PC building, custom mechanical keyboards, and modding games like Skyrim  
+- Digital art with a dark fantasy/occult vibe  
+- Running online gaming communities and playtesting mods  
+- Tattoo design & Southern Gothic aesthetics  
+- Lifelong learner with a love for tech, storytelling, and visual creativity  
+
+## 📫 Let’s Connect
+I'm always open to collaboration, advice, or geeking out over tech and design. Feel free to explore my repos and follow along as I grow!
 
 
