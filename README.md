@@ -8,7 +8,7 @@ Welcome to my corner of the internet. I'm currently diving deep into web design 
 - Building personal projects to sharpen my skills in HTML, CSS, JavaScript, and React  
 
 ## 🛠️ Skills & Tools
-- **Languages:** HTML5, CSS3, JavaScript  
+- **Languages:** HTML, CSS, JavaScript  
 - **Tools:** Git, GitHub, VS Code, Figma  
 - **Other Interests:** UI/UX principles, responsive design, and site optimization
 
